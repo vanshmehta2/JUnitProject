@@ -1,0 +1,5 @@
+com\example\demo\service\ContactManager.class
+com\example\demo\test\ContactManagerTest.class
+com\example\demo\model\Contact.class
+com\example\demo\JUnitProjectApplication.class
+com\example\demo\ServletInitializer.class
